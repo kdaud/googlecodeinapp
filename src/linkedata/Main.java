@@ -18,7 +18,7 @@ public class Main {
 	}
 	public static void main(String[] args) {
 		MyTec obj = new MyTec();
-		obj.mycommit("Programming is life changing");
+		obj.mycommit("Java Language");
 	}
 	
 }
